@@ -21,4 +21,4 @@ int main() {
     cout << "La fuerza de atracción es: " << fuerzaAtraccion << " N" << endl;
 
     return 0;
-}
+} // DONDE SE ALMACENA M1, M2,D
